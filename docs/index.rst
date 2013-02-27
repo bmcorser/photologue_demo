@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    pages/configuration.rst
+   pages/implementing.rst
 
 Indices and tables
 ==================
